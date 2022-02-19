@@ -257,7 +257,7 @@ document.addEventListener( 'wpcf7mailsent', function( event ) {
 /**********************************
 * Project: Technical Test - Junior Front-end Developer - Hybrid / Remote - ProdPad
 * Author: Bozena Zawilinska 
-* Last update: 18/02/2022
+* Last update: 19/02/2022
  **********************************/
 function custom_scripts() {
   // Enqueue Compiled SCSS

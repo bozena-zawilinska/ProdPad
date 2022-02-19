@@ -25,8 +25,8 @@
   background-color: #f6f6f6;
 }
 .site-container .site-inner {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
 }
 .site-container .site-inner .entry-content {
   position: relative;
@@ -89,10 +89,16 @@
 }
 /* 2. HOMEPAGE 
    ============================= */
+/* Header */
+.bz-custom-page header {
+  background-color: none;
+  border-bottom: none;
+}
+
 /* Wave */
 .wave-container {
   background-color: #143350;
-  padding-top: 20rem;
+  padding-top: 17rem;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -216,6 +222,26 @@
   padding: 2rem;
 }
 
+@media (max-width: 781px) {
+  .apps-section .row .col-4,
+.apps-section .row .col-8 {
+    margin: 20px auto;
+    text-align: left;
+    padding: 0 2rem;
+    width: 100%;
+  }
+  .apps-section .row .col-4 ul,
+.apps-section .row .col-8 ul {
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .apps-section .row .col-8 .row {
+    flex-direction: column;
+  }
+  .apps-section .row .col-8 .row .col {
+    margin: 10px auto;
+  }
+}
 @media (min-width: 782px) {
   .apps-section .col a {
     right: 2rem;
