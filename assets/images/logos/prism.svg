@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #333333;">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" fill="#FFFFFF">
+            <g id="10_2016_prism_icon_small" transform="translate(5.000000, 2.000000)">
+                <path d="M6.66666667,0 C2.98476833,-2.2545125e-16 4.50902501e-16,2.98476833 0,6.66666667 L0,20 L3.73333333,16.6666667 L3.73333333,13.3333333 L6.66666667,13.3333333 C10.348565,13.3333333 13.3333333,10.348565 13.3333333,6.66666667 C13.3333333,2.98476833 10.348565,2.2545125e-16 6.66666667,0 Z M6.66666667,10.4 L3.73333333,10.4 L3.73333333,6.66666667 C3.68278869,5.80732818 3.98628005,4.96476517 4.57318687,4.33503683 C5.16009369,3.70530849 5.97923438,3.34333066 6.84,3.33333333 C8.70212544,3.4212215 10.1514556,4.98317859 10.1,6.84666667 C10.0720415,8.75133341 8.56924987,10.3066498 6.66666667,10.4 Z" id="logoPrism"></path>
+            </g>
+        </g>
+    </g>
+</svg>

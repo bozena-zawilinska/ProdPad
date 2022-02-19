@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="24px" viewBox="0 0 16 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Stroke 4 + Stroke 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#23C3B3" offset="0%"></stop>
+            <stop stop-color="#25A7D9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="185.188802%" y1="318.457031%" x2="-75.3255208%" y2="-70.2148438%" id="linearGradient-2">
+            <stop stop-color="#23C3B3" offset="0%"></stop>
+            <stop stop-color="#25A7D9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="contact-us" transform="translate(-844.000000, -461.000000)">
+            <g id="Stroke-4-+-Stroke-6" transform="translate(844.000000, 461.000000)">
+                <path d="M15.5,8 C15.5,12.144 8,23.5 8,23.5 C8,23.5 0.5,12.144 0.5,8 C0.5,3.858 3.857,0.5 8,0.5 C12.142,0.5 15.5,3.858 15.5,8 L15.5,8 Z" id="Stroke-4" stroke="url(#linearGradient-1)"></path>
+                <path d="M11,8 C11,9.657 9.656,11 8,11 C6.343,11 5,9.657 5,8 C5,6.344 6.343,5 8,5 C9.656,5 11,6.344 11,8 L11,8 Z" id="Stroke-6" stroke="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

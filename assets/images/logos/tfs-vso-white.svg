@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tfs-vso-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="79.8847869 80 0 80 0 40 0 0 79.8847869 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tfs-vso-white">
+            <g id="tfs-vso">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <path d="M39.1842156,40.0907657 L59.8644049,56.4186291 L59.8644049,23.7629023 L39.1842156,40.0907657 Z M7.98184686,28.1163351 L7.98184686,52.4260453 L19.9551706,40.0907657 L7.98184686,28.1163351 Z M60.0470432,0 L79.8184686,7.98184686 L79.8184686,72.0159393 L59.863298,80 L28.117442,48.4345684 L7.98184686,64.0363063 L0,60.0481501 L0,19.9518499 L7.98184686,16.146332 L28.117442,31.9262805 L60.0470432,0 L60.0470432,0 Z" id="Fill-1" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>adfs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="79.8847869 80 0 80 0 40 0 0 79.8847869 0 79.8847869 80"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="adfs">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <g id="Microsoft_logo_(2012)" mask="url(#mask-2)" fill-rule="nonzero">
+                <polygon id="Shape" fill="#F25022" points="0 0 38.0155039 0 38.0155039 38.0155039 0 38.0155039"></polygon>
+                <polygon id="Shape" fill="#7FBA00" points="41.9844961 0 80 0 80 38.0155039 41.9844961 38.0155039"></polygon>
+                <polygon id="Shape" fill="#00A4EF" points="0 41.9844961 38.0155039 41.9844961 38.0155039 80 0 80"></polygon>
+                <polygon id="Shape" fill="#FFB900" points="41.9844961 41.9844961 80 41.9844961 80 80 41.9844961 80"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

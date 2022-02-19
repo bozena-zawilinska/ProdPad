@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Stroke 337 + Stroke 338</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blog-author" transform="translate(-546.000000, -25.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Group-7" transform="translate(186.000000, 17.000000)">
+                <g id="Stroke-337-+-Stroke-338" transform="translate(360.000000, 8.000000)">
+                    <path d="M16.5,9 C16.5,13.1418576 13.1418576,16.5 9,16.5 C4.85814237,16.5 1.5,13.1418576 1.5,9 C1.5,4.8574974 4.85778732,1.5 9,1.5 C13.1422127,1.5 16.5,4.8574974 16.5,9 Z M17.5,9 C17.5,4.30519332 13.6944781,0.5 9,0.5 C4.3055219,0.5 0.5,4.30519332 0.5,9 C0.5,13.6941424 4.30585763,17.5 9,17.5 C13.6941424,17.5 17.5,13.6941424 17.5,9 Z" id="Stroke-337"></path>
+                    <path d="M14.6464466,15.3535534 L22.9904466,23.6975534 C23.1857088,23.8928155 23.5022912,23.8928155 23.6975534,23.6975534 C23.8928155,23.5022912 23.8928155,23.1857088 23.6975534,22.9904466 L15.3535534,14.6464466 C15.1582912,14.4511845 14.8417088,14.4511845 14.6464466,14.6464466 C14.4511845,14.8417088 14.4511845,15.1582912 14.6464466,15.3535534 Z" id="Stroke-338"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

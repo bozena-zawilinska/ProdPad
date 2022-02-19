@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="88" height="88" rx="17.6"></rect>
+        <linearGradient x1="70.6868158%" y1="35.6591143%" x2="44.4445001%" y2="75.4891864%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="7%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.0454475%" y1="63.1971216%" x2="58.672588%" y2="19.6607556%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="7%"></stop>
+            <stop stop-color="#FFFFFF" offset="91%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="marketplace-index" transform="translate(-675.000000, -516.000000)">
+            <g id="Group-30" transform="translate(675.000000, 516.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#0052CC" xlink:href="#path-1"></use>
+                <g id="Jira-Software-white" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(22.000000, 20.900000)" id="Path">
+                        <path d="M21.7859459,45.0464865 C23.890432,42.943252 25.0728253,40.0899025 25.0728253,37.1145946 C25.0728253,34.1392867 23.890432,31.2859372 21.7859459,29.1827027 L21.7859459,29.1827027 L7.17081081,14.6151351 L0.523243243,21.2627027 C-0.172321548,21.9591336 -0.172321548,23.0873529 0.523243243,23.7837838 L21.7859459,45.0464865 L21.7859459,45.0464865 Z" fill="#FFFFFF"></path>
+                        <path d="M43.0486486,21.2627027 L21.7859459,0 L21.7859459,0 L21.7205405,0.0654054054 L21.7205405,0.0654054054 C17.3867428,4.45219307 17.4079925,11.515045 21.7681081,15.8756757 L36.3951351,30.4372973 L43.0486486,23.7837838 C43.7442134,23.0873529 43.7442134,21.9591336 43.0486486,21.2627027 Z" fill="#FFFFFF"></path>
+                        <path d="M21.7859459,15.8637838 C17.4258303,11.5031531 17.4045807,4.44030118 21.7383784,0.0535135135 L6.57027027,15.2156757 L14.5021622,23.1475676 L21.7859459,15.8637838 Z" fill="url(#linearGradient-3)"></path>
+                        <path d="M29.0578378,21.9108108 L21.7859459,29.1827027 C23.890432,31.2859372 25.0728253,34.1392867 25.0728253,37.1145946 C25.0728253,40.0899025 23.890432,42.943252 21.7859459,45.0464865 L21.7859459,45.0464865 L36.9897297,29.8427027 L29.0578378,21.9108108 Z" fill="url(#linearGradient-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2880px" height="239px" viewBox="0 0 2880 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>navy-wave</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.3292369%" y1="5.3292369%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#183B5C" offset="0%"></stop>
+            <stop stop-color="#9B60E9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navy-wave" fill="url(#linearGradient-1)">
+            <path d="M23.5585859,-96.265573 C23.5585859,-96.265573 97.4388233,-91.7194925 206.765845,-20.5497743 C316.092866,50.6199438 527.412461,137.237968 715.757026,94.4177347 C924.212922,47.0251798 1136.85204,169.36299 1241.73399,218.21371 C1346.61594,267.064431 1425.40749,275.888186 1425.40749,275.888186 L1416.37329,340.169831 L-9.61272474,139.760566 L23.5585859,-96.265573 Z" id="Path-3-Copy" transform="translate(707.897383, 121.952129) rotate(-8.000000) translate(-707.897383, -121.952129) "></path>
+            <path d="M1486.58123,-96.265573 C1486.58123,-96.265573 1560.51191,-91.7194925 1669.91358,-20.5497743 C1779.31525,50.6199438 1990.77912,137.237968 2179.25229,94.4177347 C2387.85051,47.0251798 2600.63481,169.36299 2705.58837,218.21371 C2810.54193,267.064431 2889.38728,275.888186 2889.38728,275.888186 L2880.34691,340.169831 L1453.38728,139.760566 L1486.58123,-96.265573 Z" id="Path-3-Copy" transform="translate(2171.387275, 121.952129) scale(-1, 1) rotate(-8.000000) translate(-2171.387275, -121.952129) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.6553341%" y1="35.6591143%" x2="37.202032%" y2="75.4891864%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="7%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.79350802%" y1="63.1971216%" x2="70.0821275%" y2="19.6607556%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="7%"></stop>
+            <stop stop-color="#FFFFFF" offset="91%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M40,79.7473684 C43.7256452,76.0239389 45.8188773,70.9725547 45.8188773,65.7052632 C45.8188773,60.4379717 43.7256452,55.3865874 40,51.6631579 L14.1263158,25.8736842 L2.35789474,37.6421053 C1.12651209,38.8750212 1.12651209,40.8723472 2.35789474,42.1052632 L40,79.7473684 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M77.6421053,37.6421053 L40,0 L39.8842105,0.115789474 C32.2119371,7.8818729 32.2495561,20.3854863 39.9684211,28.1052632 L65.8631579,53.8842105 L77.6421053,42.1052632 C78.8734879,40.8723472 78.8734879,38.8750212 77.6421053,37.6421053 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M40,28.0842105 C32.281135,20.3644336 32.243516,7.86082027 39.9157895,0.0947368421 L13.0631579,26.9368421 L27.1052632,40.9789474 L40,28.0842105 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <path d="M52.8736842,38.7894737 L40,51.6631579 C43.7256452,55.3865874 45.8188773,60.4379717 45.8188773,65.7052632 C45.8188773,70.9725547 43.7256452,76.0239389 40,79.7473684 L66.9157895,52.8315789 L52.8736842,38.7894737 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>email-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="79.8847869 80 0 80 0 40 0 0 79.8847869 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="email-white">
+            <g id="email">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Fill-100-+-Fill-101" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 13.000000)" id="Group">
+                        <g>
+                            <path d="M78.9418182,3.54909091 L41.1454545,34.1418182 C40.8109091,34.4109091 40.4036364,34.5454545 40,34.5454545 C39.5963636,34.5454545 39.1890909,34.4109091 38.8545455,34.1418182 L1.06181818,3.54909091 C0.403636364,4.64363636 0,5.90545455 0,7.27272727 L0,47.2727273 C0,51.2836364 3.26181818,54.5454545 7.27272727,54.5454545 L72.7272727,54.5454545 C76.7381818,54.5454545 80,51.2836364 80,47.2727273 L80,7.27272727 C80,5.90545455 79.5963636,4.64363636 78.9418182,3.54909091" id="Fill-100" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M76.32,0.989090909 C75.2545455,0.374545455 74.04,0 72.7272727,0 L7.27272727,0 C5.96,0 4.74545455,0.374545455 3.68,0.989090909 L40,30.3890909 L76.32,0.989090909" id="Fill-101" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
